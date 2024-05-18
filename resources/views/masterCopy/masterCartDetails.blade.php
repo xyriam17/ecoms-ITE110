@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>The Sweet Piece</title>
+    <title>Sweet Serenity Cakes</title>
     <link rel="icon" href="https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico">
     <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/blog/">
 
@@ -41,7 +41,7 @@
 </body>
 
 <footer class="blog-footer">
-    <p>This website is built by <a href="#">Md. Mahin Rahman</a>.</p>
+    <p>This website is built by <a href="#">Sweet Serenity Cakes</a>.</p>
     <p>
         <a href="#">Back to top</a>
     </p>

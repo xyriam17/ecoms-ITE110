@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>The Sweet Piece</title>
+    <title>Sweet Serenity Cakes</title>
     <link rel="icon" href="https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico">
 
 
@@ -46,7 +46,7 @@
     </main><!-- /.container -->
 </body>
     <footer class="blog-footer">
-        <p>The Sweet Piece</p>
+        <p>Sweet Serenity Cakes</p>
         <p>
             <a href="#">Back to top</a>
         </p>

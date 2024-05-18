@@ -523,26 +523,7 @@
             </div>
         </section>
 
-            <h3 class="pb-3 mb-4 font-italic border-bottom">
-
-            </h3>
-    @if(\Illuminate\Support\Facades\Auth::user())
-@if(\Illuminate\Support\Facades\Auth::user()->role_as==1)
-            <div class="blog-post">
-                <h2 class="blog-post-title" style="text-align: center;">Admin Management Section</h2>
-
-                <p>
-                    <a href="{{route('categories.index')}}" class="btn btn-info btn-block">Category Management</a>
-                </p>
-                <p>
-                    <a href="{{route('products.index')}}" class="btn btn-info btn-block">Products Management</a>
-                </p>
-                <p>
-                    <a href="{{route('orders.index')}}" class="btn btn-info btn-block">Orders Management</a>
-                </p>
-            </div>
-@endif
-    @endif
+           
 
 @stop
 

@@ -18,6 +18,15 @@
     </div>
     @endif
 
+<div class="row">
+    <div class="col-md-4 order-md-2 mb-4">
+        <h4 class="d-flex justify-content-between align-items-center mb-3">
+            <span class="text-muted">Your cart</span>
+           
+        </h4>
+        
+
+            
 
 
     <div class="col-md-8 order-md-1">
@@ -58,15 +67,22 @@
                     </div>
                 </div>
 
-                
+                <div class="col-md-3 mb-3">
+                    
+                </div>
             </div>
-           
+            <hr class="mb-4">
+            <div class="custom-control custom-checkbox">
+                <input type="checkbox" class="custom-control-input" id="same-address">
+                <label class="custom-control-label" for="same-address">Shipping address is the same as my billing address</label>
+            </div>
 
             <hr class="mb-4">
 
             <h4 class="mb-3">Payment</h4>
 
             <div class="d-block my-3">
+                
                 
                 <div class="custom-control custom-radio">
                     <input id="paypal" name="paymentMethod" type="radio" class="custom-control-input" checked required>
